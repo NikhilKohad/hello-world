@@ -1,2 +1,3 @@
-# hello-world
-Just another Repository
+# maven-project
+
+Simple Maven Project
